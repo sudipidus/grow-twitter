@@ -28,4 +28,5 @@ This will largely be for tech-space but some ideas could be generalized for othe
 All contributions are welcome. Fork this - PR- you know the drill. 
 
 
-### This life saving guide is licensed under [wtfpl](http://www.wtfpl.net/)
+### LICENSE
+This life saving guide is licensed under [wtfpl](http://www.wtfpl.net/)
