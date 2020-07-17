@@ -11,6 +11,8 @@ This will largely be for tech-space but some ideas could be generalized for othe
 
 - **Javascript is the answer.**  It's okay if it's not your primary language but start tweeting about javascript, especially about how cool it is and how anyone can learn it. (This is to cash in on the fact that most newcomers start off with javascript and this is the best way to connect/gain them)
 
+- **Oversell the koolaid: Anyone can code** Though it's true anyone can code and become a programmer, just go ahead and oversell it. Lure all the newbies with this koolaid and make them believe its very lucrative. (Hide the struggles, hide the foundation required (actually you yourself don't have it, so it should be easy)).
+
 - **You should have an inspirational story. (If not, fake it).** You dropped out of college and taught yourself how to code on weekends while doing a construction work during week. Main thing is you have to reinforce these facts every now and then
 
 - **I scratch your back, you scratch mine.** Get connected to fellow aspiring fake-gurus. Compliment on each other's posts and give shoutout to each other. Make inspirational memes of each other. Creativity is the limit here.
